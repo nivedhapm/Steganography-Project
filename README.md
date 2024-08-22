@@ -108,7 +108,7 @@ Extract the LSBs from Original Image’s pixels. Combine them to reconstruct Ima
 1. To get started, clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/Steganography-Project.git
+git clone https://github.com/nivedhapm/Steganography-Project.git
 cd Steganography-Project
 ```
 2. Install the required Python libraries:
