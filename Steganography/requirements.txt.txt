@@ -1,3 +1,0 @@
-Install Pillow -> pip install pillow
-Install stepic -> pip install stepic
-Install Cryptography -> pip install cryptography
