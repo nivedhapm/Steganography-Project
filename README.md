@@ -1,5 +1,5 @@
 
-# Steganography with Python: Hiding Text in a Image
+# Steganography with Python: Hiding Text in an Image
 
 Welcome to the Steganography project! 
 
