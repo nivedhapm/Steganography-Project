@@ -46,6 +46,8 @@ Each of these values can range from 0 to 255. So, a pixel in an image might look
 - Blue: 233
 
 This combination creates a specific color.
+
+
 ![color value](https://github.com/user-attachments/assets/94ac11f3-6769-4348-9bc8-be21146d2c0c)
 
 
