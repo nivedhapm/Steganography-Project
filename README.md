@@ -27,6 +27,8 @@ When we talk about a "digital image," we're referring to a picture made up of ti
 
 A pixel is the smallest part of an image. Each pixel holds information about its color, and the more pixels an image has, the clearer it appears. The color of each pixel can change, which means more detailed pictures have more pixels.
 
+![pixel example](https://github.com/user-attachments/assets/bfb9b330-974c-4b00-a720-31f42d78358d)
+
 #### How are Colors Represented?
 
 In digital images, colors are usually represented using the RGB color model, which stands for Red, Green, and Blue. Each pixel in an RGB image is defined by three numbers:
@@ -42,6 +44,7 @@ Each of these values can range from 0 to 255. So, a pixel in an image might look
 - Red: 150
 - Green: 75
 - Blue: 0
+  
 This combination creates a specific color.
 
 #### Binary Numbers in Pixels
