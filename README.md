@@ -41,20 +41,22 @@ In digital images, colors are usually represented using the RGB color model, whi
 
 Each of these values can range from 0 to 255. So, a pixel in an image might look like this:
 
-- Red: 150
-- Green: 75
-- Blue: 0
-  
+- Red: 75
+- Green: 154
+- Blue: 233
+
 This combination creates a specific color.
+![color value](https://github.com/user-attachments/assets/94ac11f3-6769-4348-9bc8-be21146d2c0c)
+
 
 #### Binary Numbers in Pixels
 
 Computers use binary numbers (1s and 0s) to store information. Each RGB value (ranging from 0 to 255) can be written as an 8-bit binary number. For example:
 
-- 150 in binary is 10010110
-- 75 in binary is 01001011
-- 0 in binary is 00000000
-
+- 75 in binary is 1001011
+- 154 in binary is 10011010
+- 233 in binary is 11101001
+  
 ![](https://cdn-images-1.medium.com/max/2000/1*Mt3yDPhS3aq_spPfWTW9BA.png)
 
 
